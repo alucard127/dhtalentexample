@@ -1,0 +1,56 @@
+#Nombre=Roberto
+#Apellido=Franco
+#Edad=35
+#Profesion=Ingeniero de Sistemas
+
+#Pares clave valor
+{
+"Nombre":"Roberto",
+"Apellido":"Franco",
+"Edad":"35",
+"Profesion":"Ingeniero de Sistemas",
+}
+
+#Array
+
+{
+"Nombre":"Roberto",
+"Apellido":"Franco",
+"Edad":"35",
+"Profesion":"Ingeniero de Sistemas",
+"Direccion":["Direccion 1", "Direccion 2", "Direccion 3",]
+
+#Nombre=Roberto
+#Apellido=Franco
+#Edad=35
+#Profesion=Ingeniero de Sistemas
+}
+
+#Matriz
+
+{
+"Nombre":"Roberto",
+"Apellido":"Franco",
+"Edad":"35",
+"Profesion":"Ingeniero de Sistemas",
+"Direccion":["Direccion 1", "Direccion 2", "Direccion 3",]
+"Nacionalidades:[
+"Pais": "India",
+"Data":{
+"Capital": "New Delhi"
+"Altitud":343
+"Longitud":343
+},
+}
+"Pais": "Bolivia",
+"Data":{
+"Capital": "La Paz"
+"Altitud":343
+"Longitud":343
+}
+}
+]
+}
+
+
+
